@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2 style="text-align:center;"> HTML Image</h2>
+<p style="text-align:right;"> GOOD LIFE.</p>
+<br><br><br><br><br><br><br>
+<img src="image.jpg" alt="Trulli" width="700" height="500">
+
+</body>
+</html>
